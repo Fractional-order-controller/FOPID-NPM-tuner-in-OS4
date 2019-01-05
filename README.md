@@ -3,3 +3,6 @@ Fractional order proportional integral derivative controller neighborhood phase 
 
 This project is based on https://github.com/cnpcshangbo/OS4_FOC
 The aim is to test NPM tuning method for FOPID controllers.
+
+# Usage:
+Run "systema.slx"
